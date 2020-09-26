@@ -1,0 +1,15 @@
+---
+enable: true
+topTitle: Additional Experience
+title: Awards & Certifications
+
+service:
+- title: MAL Startup Competition
+  content: Awarded 3rd prize for Car Messaging Android App, out of 6 projects in the final round.
+  image: images/service/mal.png
+- title: Agile Foundations, ICAgile
+  content: Completed Agile Foundations Course by ICAgile.
+  image: images/service/ICP.png
+- title: Agile Team Facilitation, ICAgile
+  content: Completed Agile Team Facilitation Course by ICAgile.
+  image: images/service/ICP-ATF.png

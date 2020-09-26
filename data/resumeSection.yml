@@ -1,0 +1,44 @@
+---
+enable: true
+topTitle: My Resume
+title: My Expertises
+subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+subsubtitle: Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+
+tab1Name: Education
+tab2Name: Experiences
+tab3Name: Projects
+tab1Target: education
+tab2Target: experience
+tab3Target: projects
+
+education:
+  - title: Cairo University
+    content: 
+      - " - BSc. in Computer Science with a Minor in Information Systems"
+      - " - Ranked 6th on my class with GPA: 3.67"
+    coursework: "Operating Systems | Databases | Algorithms | Data Structures | Programming Languages | Parallel Programming | Comp. Architecture | Artificial Intelligence | Big Data"
+    time: Fall 2012 – May 2016
+
+experience:
+  - title: Kites Software - ERP System
+    content: 
+      - " - Built a logging machine in aws using ELK Stack"
+      - " - Developed reusable components in Angular with unit tests"
+      - " - Added state management using NgRx across all modules"
+      - " - Used Behaviour Driven Development (BDD) in backend development"
+      - " - Built an admin app for test data insertion using Django"
+    time: June 2018 - Present
+    stack: PostgreSQL | Spring-Boot | Angular | AWS | Docker | Cucumber | Django | REST 
+
+projects:
+  - title: Smart Case for Business Cards
+    content: Android App which scans business cards and saves them
+    time: May 2015 - May 2016
+    stack: ABBY OCR | Java | Android | MySql | AWS | PHP
+  - title: Say Beep
+    content: Android App for car messaging using plate number
+    time: July 2016 - Dec 2016
+    stack: Java | Android | MySql | AWS | PHP
+
+
