@@ -1,4 +1,4 @@
-baseURL = "http://waseem-93.github.io/"
+baseURL = "https://waseem-93.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
